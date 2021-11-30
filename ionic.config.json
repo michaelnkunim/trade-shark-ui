@@ -1,0 +1,7 @@
+{
+  "name": "trade-shark-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
